@@ -17,7 +17,7 @@ Vi starter stille og roligt med at lære at bruge kameraet. Prøv følgende:
 
 ### Opgave B: Tilføj objekter
 Efter at have lært at bruge kameraet, kan du begynde at tilføje nogle objekter. Det sker ved at trykke *Shift+A* og derefter holde musen over *Mesh*, og så kommer følgende menu frem:
-![[Pasted image 20250923204100.png]]
+![[add-objects.png]]
 Dem man kommer til at bruge mest er (sandsynligvis, men ikke altid) *Cube*, *UV Sphere*, og *Cylinder*. Det er dog mest fordi de er nemme at arbejde med, og lave om til andre ting, så lige nu kan du sagtens vælge Monkey.
 ### Opgave C: Flyt objekter rundt
 Nu skal vi begynde at flytte på objekterne! Klik på hvad end du har tilføjet og prøv at lege rundt med de følgende kommandoer:
@@ -27,9 +27,9 @@ Nu skal vi begynde at flytte på objekterne! Klik på hvad end du har tilføjet 
 
 Når man bevæger noget i Blender, kan man også trykke på nogle andre knapper for at gøre noget bestemt. Klikker man på X, begynder man kun at bevæge/rotere/skalere i X-aksen (den røde streg i viewporten). Det samme kan man gøre for Y og Y-aksen (den grønne linje) , og for Z og Z-aksen. Dette kan også ses på oversigten over akserne oppe i højre hjørne.
 
-![[Pasted image 20250923203926.png]]
+![[view-widget.png]]
 
 Nu kan du prøve at flytte rundt på dine objekter, og prøv at tilføje nogle flere og stable dem på hinanden ligesom på billedet. Prøv at leg lidt rundt med det!
-![[Pasted image 20250923210130.png]]
+![[rodebunke.png]]
 
 Nu når du har lært at flytte kameraet, tilføje objekter og flytte rundt på dem, så kan du gå videre til næste opgave, [[Opgave 2 - Bunke af kanonkugler]]

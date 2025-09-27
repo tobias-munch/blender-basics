@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
+                "file": "_guides/01-getting-started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opgave 2 - Bunke af kanonkugler"
+              "title": "01-getting-started"
             }
           }
         ]
@@ -171,11 +171,14 @@
   },
   "active": "203ec1a40ad77312",
   "lastOpenFiles": [
+    "z_assets/add-objects.png",
+    "z_assets/rodebunke.png",
+    "z_assets/view-widget.png",
+    "_guides/01-getting-started.md",
+    "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
     "Opgaver/Opgave X - Lille kanon.md",
     "Opgaver/Opgave H - Hjul.md",
     "_guides/02-cannonballs.md",
-    "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
-    "_guides/01-getting-started.md",
     "index.md",
     "Introduktion.md",
     "Opgaver/Opgave 1 - Det vigtigste.md",
@@ -198,10 +201,6 @@
     "z_assets/vintage-cannon-cartoon-illustration-vector.jpg",
     "z_assets/vertex-edge-face-modes.png",
     "z_assets/Starting_menu.png",
-    "z_assets/Pasted image 20250923210130.png",
-    "z_assets/Pasted image 20250604153528.png",
-    "z_assets/Pasted image 20250923204100.png",
-    "z_assets/Pasted image 20250923203926.png",
     "z_assets/Hjul-2-OK1.jpg",
     "z_assets/Hjul dele.png",
     "z_assets/First Render.png",
