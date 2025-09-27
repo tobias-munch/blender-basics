@@ -1,0 +1,1 @@
+I denne opgave vil vi forsøge at lave en lille kanon![[vintage-cannon-cartoon-illustration-vector.jpg]]

@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "f8d13f6d87ce8ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b221c8c398d5788a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "203ec1a40ad77312",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b0e25acdfba1881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284baf7063fa30b4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "008dee58e2115f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "69af3c02d5dbe71a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0153bd2922899635",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "997bb46c9d7ba084",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "74f412a075f96f7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcf78c4de10929c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba604105ecdb4d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "354f463aacdc27da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "311e7e8ccc9c52f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "188523cdbd65201b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6442be6b4b14fa58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "203ec1a40ad77312",
+  "lastOpenFiles": [
+    "Opgaver/Opgave X - Lille kanon.md",
+    "Opgaver/Opgave H - Hjul.md",
+    "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
+    "Opgaver/Opgave 1 - Det vigtigste.md",
+    "Opgaver",
+    "Funktioner i Blender/Transformationer/Rotation (Rotate).md",
+    "Funktioner i Blender/Transformationer/Skaléring (Scale).md",
+    "Funktioner i Blender/Relationer/Parent.md",
+    "Funktioner i Blender/Transformationer/Flytning (Move).md",
+    "Funktioner i Blender/Mesh/Tilføj objekt (Add Object).md",
+    "Funktioner i Blender/Transformationer",
+    "Funktioner i Blender/Relationer",
+    "Funktioner i Blender/Modifiers",
+    "Funktioner i Blender/Mesh",
+    "Funktioner i Blender",
+    "README.md",
+    "Introduktion.md",
+    "Det mest fundamentale.md",
+    "Brainstorm.md",
+    "Blender Keybinds.md",
+    "z_assets/vintage-cannon-cartoon-illustration-vector.jpg",
+    "z_assets/vertex-edge-face-modes.png",
+    "z_assets/Starting_menu.png",
+    "z_assets/Pasted image 20250923210130.png",
+    "z_assets/Pasted image 20250604153528.png",
+    "z_assets/Pasted image 20250923204100.png",
+    "z_assets/Pasted image 20250923203926.png",
+    "z_assets/Hjul-2-OK1.jpg",
+    "z_assets/Hjul dele.png",
+    "z_assets/First Render.png",
+    "z_assets",
+    "Welcome.md"
+  ]
+}

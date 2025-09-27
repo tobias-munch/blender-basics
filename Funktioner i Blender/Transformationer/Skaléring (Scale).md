@@ -1,0 +1,1 @@
+Et ord der i bund og grund betyder "gør størrere eller mindre"
