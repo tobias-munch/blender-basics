@@ -1,0 +1,31 @@
+# Site settings
+title: Blender Basics
+description: A Blender Basics guide for use at Coding Pirates
+url: https://tobias-munch.github.io
+baseurl: /blender-basics
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# GitHub Pages configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Collections for organizing content
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
