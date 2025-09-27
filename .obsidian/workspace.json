@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_guides/01-getting-started.md",
+                "file": "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-getting-started"
+              "title": "Opgave 2 - Bunke af kanonkugler"
             }
           }
         ]
@@ -171,16 +171,16 @@
   },
   "active": "203ec1a40ad77312",
   "lastOpenFiles": [
-    "Introduktion.md",
-    "_guides/01-getting-started.md",
-    "_guides/02-cannonballs.md",
-    "Opgaver/Opgave 1 - Det vigtigste.md",
-    "index.md",
-    "_guides",
-    "README.md",
     "Opgaver/Opgave X - Lille kanon.md",
     "Opgaver/Opgave H - Hjul.md",
+    "_guides/02-cannonballs.md",
     "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
+    "_guides/01-getting-started.md",
+    "index.md",
+    "Introduktion.md",
+    "Opgaver/Opgave 1 - Det vigtigste.md",
+    "_guides",
+    "README.md",
     "Opgaver",
     "Funktioner i Blender/Transformationer/Rotation (Rotate).md",
     "Funktioner i Blender/Transformationer/Skaléring (Scale).md",

@@ -17,7 +17,7 @@ Vi starter stille og roligt med at lære at bruge kameraet. Prøv følgende:
 * *Alt*+Musehjulet gør, at man skifter mellem nogle udvalgte vinkler når man flytter musen. Det siger nok ikke så meget nu med kassen, men senere kan du prøve det når vi arbejder med andre objekter.
 
 
->[!info] Tastetur-kombinationer
+>**Tastetur-kombinationer:**
 > Hvis der står noget omkring flere taster + hinanden, betyder det at det er rækkefølgen som man skal trykke tasterne i. For eksempel, hvis der står *Ctrl+Shift+S*, betyder det at man skal trykke på Ctrl/Control, så Shift, og så S.
 > Denne kombination gør at man gemmer sin fil, hvilket er en god idé at gøre løbende mens man arbejder med Blender! (dog kan man nøjes med *Ctrl+S* når man har gemt én gang før)
 
