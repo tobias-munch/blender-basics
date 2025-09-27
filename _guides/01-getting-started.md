@@ -5,7 +5,7 @@ order: 1
 ---
 # Opgave 1 - Det vigtigste
 Vi starter helt simpelt med at åbne Blender (og du har forhåbentligt installeret Blender, ellers må du lige gøre det), og det første du møder er det her: 
-![Det første man ser](/z_assets/Starting_menu.png)
+![Det første man ser]({{ site.baseurl }}/z_assets/Starting_menu.png)
 Her har vi tre primære vinduer: Den du vil bruge mest tid på er det store vindue, som bliver kaldt for *3D Viewport*, og er her hvor vi kommer til at arbejde med vores objekter. De to ude til højre er en oversigt over objekter, der er i vores Viewport (øverst til højre), og et vindue til det valgte objekts egenskaber (nederst til højre). Dem bruger vi senere, men i oversigten kan du se at der står "Camera", "Cube", og "Light", og det er de tre objekter som der er i vores Viewport nu.
 
 Det første vi starter med at gøre, er at slette det hele! I 3D Viewport'en, tryk *A* for at vælge alt (eller markér alting med musen), og tryk enten *X* eller *Delete* for at slette dem. 
@@ -34,6 +34,7 @@ Nu skal vi begynde at flytte på objekterne! Klik på hvad end du har tilføjet 
 * **S - Scale:** Gør objekter størrere eller mindre
 
 Når man bevæger noget i Blender, kan man også trykke på nogle andre knapper for at gøre noget bestemt. Klikker man på X, begynder man kun at bevæge/rotere/skalere i X-aksen (den røde streg i viewporten). Det samme kan man gøre for Y og Y-aksen (den grønne linje) , og for Z og Z-aksen. Dette kan også ses på oversigten over akserne oppe i højre hjørne.
+
 ![Widget]({{ site.baseurl }}/z_assets/view-widget.png)
 
 
@@ -41,4 +42,4 @@ Nu kan du prøve at flytte rundt på dine objekter, og prøv at tilføje nogle f
 ![Rodebunke](../../z_assets/rodebunke.png)
 
 
-Nu når du har lært at flytte kameraet, tilføje objekter og flytte rundt på dem, så kan du gå videre til næste opgave, [Opgave 2 - Bunke af kanonkugler](02-cannonballs)
+Nu når du har lært at flytte kameraet, tilføje objekter og flytte rundt på dem, så kan du gå videre til næste opgave, [Opgave 2 - Bunke af kanonkugler](02-cannonballs.md)

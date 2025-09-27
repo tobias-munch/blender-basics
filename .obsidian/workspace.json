@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b221c8c398d5788a",
+        "id": "7ba4aa357f931003",
         "type": "tabs",
         "children": [
           {
-            "id": "203ec1a40ad77312",
+            "id": "42a212df5c8faaca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,18 +169,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "203ec1a40ad77312",
+  "active": "42a212df5c8faaca",
   "lastOpenFiles": [
     "_guides/01-getting-started.md",
-    "z_assets/add-objects.png",
+    "_guides/02-cannonballs.md",
+    "{{.md",
     "index.md",
+    "z_assets/add-objects.png",
     "Introduktion.md",
     "z_assets/rodebunke.png",
     "z_assets/view-widget.png",
     "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
     "Opgaver/Opgave X - Lille kanon.md",
     "Opgaver/Opgave H - Hjul.md",
-    "_guides/02-cannonballs.md",
     "Opgaver/Opgave 1 - Det vigtigste.md",
     "_guides",
     "README.md",
