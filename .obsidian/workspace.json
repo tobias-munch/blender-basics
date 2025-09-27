@@ -11,26 +11,14 @@
             "id": "203ec1a40ad77312",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_guides/01-getting-started.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0b0e25acdfba1881",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "284baf7063fa30b4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "01-getting-started"
             }
           }
         ]
@@ -106,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -124,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -152,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ]
@@ -180,10 +171,16 @@
   },
   "active": "203ec1a40ad77312",
   "lastOpenFiles": [
+    "_guides/02-cannonballs.md",
+    "_guides/01-getting-started.md",
+    "Opgaver/Opgave 1 - Det vigtigste.md",
+    "index.md",
+    "Introduktion.md",
+    "_guides",
+    "README.md",
     "Opgaver/Opgave X - Lille kanon.md",
     "Opgaver/Opgave H - Hjul.md",
     "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
-    "Opgaver/Opgave 1 - Det vigtigste.md",
     "Opgaver",
     "Funktioner i Blender/Transformationer/Rotation (Rotate).md",
     "Funktioner i Blender/Transformationer/Skaléring (Scale).md",
@@ -195,8 +192,6 @@
     "Funktioner i Blender/Modifiers",
     "Funktioner i Blender/Mesh",
     "Funktioner i Blender",
-    "README.md",
-    "Introduktion.md",
     "Det mest fundamentale.md",
     "Brainstorm.md",
     "Blender Keybinds.md",
