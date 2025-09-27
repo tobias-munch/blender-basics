@@ -23,6 +23,8 @@ Vi starter stille og roligt med at lære at bruge kameraet. Prøv følgende:
 
 ### Opgave B: Tilføj objekter
 Efter at have lært at bruge kameraet, kan du begynde at tilføje nogle objekter. Det sker ved at trykke *Shift+A* og derefter holde musen over *Mesh*, og så kommer følgende menu frem:
+![Tilføjelse af objekter](/z_assets/add-objects.png)
+
 ![Tilføjelse af objekter](../z_assets/add-objects.png)
 
 Dem man kommer til at bruge mest er (sandsynligvis, men ikke altid) *Cube*, *UV Sphere*, og *Cylinder*. Det er dog mest fordi de er nemme at arbejde med, og lave om til andre ting, så lige nu kan du sagtens vælge Monkey.
