@@ -42,4 +42,5 @@ Nu kan du prøve at flytte rundt på dine objekter, og prøv at tilføje nogle f
 ![Rodebunke](../../z_assets/rodebunke.png)
 
 
-Nu når du har lært at flytte kameraet, tilføje objekter og flytte rundt på dem, så kan du gå videre til næste opgave, [Opgave 2 - Bunke af kanonkugler](({{ site.baseurl }}/_guides/02-cannonballs)
+Nu når du har lært at flytte kameraet, tilføje objekter og flytte rundt på dem, så kan du gå videre til næste opgave, [Opgave 2 - Bunke af kanonkugler](({{ site.baseurl }}/_guides/02-cannonballs.md)
+[Opgave 2 - Det vigtigste](./_guides/02-cannonballs.md)
