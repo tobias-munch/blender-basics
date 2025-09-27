@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_guides/01-getting-started.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-getting-started"
+              "title": "index"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "42a212df5c8faaca",
   "lastOpenFiles": [
+    "_guides/01-getting-started.md",
+    "_guides/02-cannonballs.md",
     "index.md",
     "Introduktion.md",
-    "_guides/01-getting-started.md",
     "{{site-baseurl}}/_guides/02-cannonballs.md",
-    "_guides/02-cannonballs.md",
     "{{site-baseurl}}/_guides/01-getting-started.md",
     "{{site-baseurl}}/_guides",
     "{{site-baseurl}}",

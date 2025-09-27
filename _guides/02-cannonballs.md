@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kanonkugler
+order: 2
+---
 Nu hvor vi har lært at bevæge både kameraet og nogle objekter, skal vi prøve at lave en simpel figur. I forbindelse med at vi laver en kanon senere, er det oplagt at lave en bunke af kanonkugler.
 
 *Billede af kanonkugler*
