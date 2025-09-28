@@ -36,10 +36,44 @@ Nu har vi det første lag af bunken, og man kunne sagtens gøre det hele forfra 
 
 Prøv at klikke på dit lag af kanonkugler, og så tryk *Shift+D*. Bevæg musen lidt, og så kan du se at du har kopieret laget af kanonkugler, og venstreklikker du nu, placerer du det nye lag (højreklik smider den tilbage til det første lags position). Nu kan man sætte *Count* til én mindre end før, og så har du et nyt lag! Så kan man fortsætte indtil man når den øverste kugle, hvor man kan fjerne de to Array-modifiers, da et Array med *Count=1* ikke gør noget.
 
-<img src="{{site.baseurl}}/z_assets/cannonball-pile.jpg" alt="bunke-af-kanonkugler" style="width:100%">
+<img src="{{site.baseurl}}/z_assets/cannonball-pile.png" alt="bunke-af-kanonkugler" style="width:100%">
 
+Husk i øvrigt at gemme din fil!
 ## Sektion B: En simpel fod
 
-Nu hvor vores bunke af kanonkugler er lavet, kan vi lave en simpel fod som de kan være på.
+Nu hvor vores bunke af kanonkugler er lavet, kan vi lave en simpel fod som de kan være på. Da vores bunke af kanonkugler er firkantet i bunden, giver det best mening at bruge en *Cube*. Det første vi skal gøre er, at skalere den så der er plads til kuglerne:
 
+<img src="{{site.baseurl}}/z_assets/fod-fra-top.png" alt="fod-fra-top" style="width:100%">
+<img src="{{site.baseurl}}/z_assets/fod-fra-side.png" alt="fod-fra-side" style="width:100%">
+
+Nu skal vi så begynde at redigere i selve objektet, det gør vi ved at ændre fra *Object Mode* til *Edit Mode*, enten ved at skifte det i venstre hjørne eller ved at trykke *Tab* i 3D Viewporten
+
+<img src="{{site.baseurl}}/z_assets/object-mode.png" alt="object-mode" style="width:100%">
+
+Inde i Edit Mode kan vi vælge forskellige dele af objektet, vi gerne vil ændre på. Der er tre måder at vælge dele af objektet: 
+
+* *Vertex Mode*, hvor man arbejder med de enkelte punkter i objektet.
+* *Edge Mode*, hvor man arbejder med linjerne mellem hvert vertex.
+* *Face Mode*, hvor man arbejder med en hel side af gangen.
+
+Man kan skifte mellem dem ved at trykke på 1, 2 eller 3 i Edit Mode, eller ved at vælge dem som vist på billedet:
+
+<img src="{{site.baseurl}}/z_assets/vertex-edge-face-modes.png" alt="vertex-edge-face-modes" style="width:100%">
+
+Vi skal ind i Face Mode, og have valgt bunden af vores flade kasse. Når man arbejder i *Edit Mode* kan man bevæge, rotere og skalere præcis som vi tidligere har gjort i *Object Mode*, men kun for enkelte dele af vores objekt. Det skal vi bruge til at skalere bunden udad, så siderne på vores fod er skrå.
+
+<img src="{{site.baseurl}}/z_assets/foot-side-askew.png" alt="foot-side-askew" style="width:100%">
+
+Nu skal vi op på den anden side af kassen og have valgt toppen af den. Nu skal vi lave noget der hedder et *Inset*, som er et mindre face inde i et andet face. Det gør vi ved at klikke *I* mens vi har valgt en face, og det begynder at lave den anden face. Træk musen lidt mod midten cirka som på billedet, og klik når du er tilfreds med det:
+
+<img src="{{site.baseurl}}/z_assets/inset-example.png" alt="inset-example" style="width:100%">
+
+Nu består toppen af flere faces end før, men nu har vi en ny og mindre face der har (cirka) samme form som den vi havde før. Vi skal nu have valgt den inderste face, og lave et *Extrude* ved at klikke *E*. Det gør, at man kan trække ny geometri ud af hvad man har valgt, og har skal vi bruge det til at lave et lille hul i vores face. Efter at have trykket på *E* kan du bevæge musen for at vælge, hvor du vil lave de nye faces, og herefter venstreklikke for at bekræfte det:
+
+<img src="{{site.baseurl}}/z_assets/extrude-example.png" alt="extrude-example" style="width:100%">
+
+>**Vigtigt omkring Extrude**
+>Hvis du får højreklikket mens du laver en Extrude, kan det godt se ud som om der ikke skete noget, men det gør der! Du vil stadig få lavet den nye extrude, men den kommer til at ligge oven i det gamle. Faces der ligger oven i hinanden er altid en dårlig idé i Blender, men der er et nemt fiks for det. Inde i *Edit Mode*, tryk på *A* for at vælge alt, og derefter *M* for at begynde at *Merge* (slå ting sammen). Her skal vi vælge *By Distance*, hvilket gør at alle de vertices, der er meget tæt sammen, bliver lavet om til én enkel vertex. Hvis du mistænker at noget er galt med dit objekt, så prøv dette!
+
+Det eneste der mangler nu, er at flytte kanonkuglerne tilbage på foden, og så har vi et komplet og færdigt objekt! Hvis man gerne vil have at de flytter sig sammen, kan man vælge alle kanonkuglerne med *Shift+Venstreklik*, og til sidst vælge foden, også med *Shift + Venstreklik*. Med alting valgt, kan vi nu trykke *Ctrl + P*, vælge *Object (Keep Transform)*, og så vil alle kanonkuglerne følge med når man flytter på foden. Det smarte er så, at du kan flytte på kanonkuglerne *uden* at flytte på foden!
 ## Sektion C: Simple materialer

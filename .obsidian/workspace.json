@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "02-cannonballs"
             }
+          },
+          {
+            "id": "581215737502e6dc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "z_assets/vertex-edge-face-modes.png"
+              },
+              "icon": "lucide-image",
+              "title": "vertex-edge-face-modes"
+            }
           }
         ]
       }
@@ -171,22 +183,22 @@
   },
   "active": "42a212df5c8faaca",
   "lastOpenFiles": [
-    "_guides/01-getting-started.md",
+    "z_assets/extrude-example.png",
     "_guides/02-cannonballs.md",
-    "z_assets/cannonball-pile.png",
-    "index.md",
-    "z_assets/vintage-cannon-cartoon-illustration-vector.jpg",
-    "z_assets/array-with-array.png",
+    "z_assets/inset-example.png",
+    "z_assets/foot-side-askew.png",
+    "z_assets/vertex-edge-face-modes.png",
+    "z_assets/object-mode.png",
     "z_assets/objekt-settings.png",
-    "Introduktion.md",
     "z_assets/modifiers-location.png",
+    "z_assets/kanonkugler.png",
+    "z_assets/Hjul-2-OK1.jpg",
+    "z_assets/Hjul dele.png",
+    "_guides/01-getting-started.md",
+    "index.md",
+    "Introduktion.md",
     "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
     "Opgaver/Opgave 1 - Det vigtigste.md",
-    "z_assets/Pasted image 20250928131336.png",
-    "z_assets/Pasted image 20250928131259.png",
-    "z_assets/Pasted image 20250928131241.png",
-    "z_assets/Pasted image 20250928130539.png",
-    "z_assets/Pasted image 20250928131201.png",
     "{{site-baseurl}}/_guides/02-cannonballs.md",
     "{{site-baseurl}}/_guides/01-getting-started.md",
     "{{site-baseurl}}/_guides",
