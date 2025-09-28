@@ -18,6 +18,7 @@ Det at lave en kugle er ikke svært - Vi kunne se i forrige opgave at man bare k
 
 > **Object Shading:**
 > Man kan også vælge *Shade Auto Smooth* og *Shade Flat*, men de gør nogle andre ting end hvad vi skal bruge nu. Den korte forklaring er, at *Shade Smooth* prøver at gøre ==ALT== smooth, hvorimod *Shade Flat* viser objektet præcis som den er. *Shade Auto Smooth* tager højde for hvor på objektet er der rundt/blødere kanter, og hvor der er fladt, og shader efter det. På billedet nedenunder kan du se hvad de gør på en kasse med nogle blødere kanter
-> ![shading explainer]({{site.baseurl}}/z_assest/shading-explainer.png)
+> ![shading explainer]({{site.baseurl}}/z_assets/shading-explainer.png)
 
-Nu har vi en rund kugle, men det vil være irriterende og tage lang tid hvis vi skal placere alle kuglerne i hånden. Der kommer til at være 30 styks hvis vi laver fire lag af kugler! Det behøver vi dog ikke at gøre, da vi kan benytte os af *Modifiers*
+Nu har vi en rund kugle, men det vil være irriterende og tage lang tid hvis vi skal placere alle kuglerne i hånden. Der kommer til at være 30 styks hvis vi laver fire lag af kugler! Det behøver vi dog ikke at gøre, da vi kan benytte os af *Modifiers*, som er placeret i en tab ude i højre side med et blåt skruenøgle-ikon.
+![modifiers-lokation]({{site.baseurl}}/z_assets/modifiers-location.png)
