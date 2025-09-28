@@ -24,7 +24,9 @@ Det eneste der er vigtigt lige nu, er at sætte Radius, som angiver hvor stor ku
 > ![shading explainer]({{site.baseurl}}/z_assets/shading-explainer.png)
 
 Nu har vi en rund kugle, men det vil være irriterende og tage lang tid hvis vi skal placere alle kuglerne i hånden. Der kommer til at være 30 styks hvis vi laver fire lag af kugler! Det behøver vi dog ikke at gøre, da vi kan benytte os af *Modifiers*, som er placeret i en tab ude i højre side med et blåt skruenøgle-ikon.
+
 ![modifiers-lokation]({{site.baseurl}}/z_assets/modifiers-location.png)
+
 Her skal vi finde den modifier der hedder *Array*, og den ligger inde under *Generate > Array* (Alternativt kan man søge efter Array). Tilføjer man den kan man med det samme at der bliver tilføjet en ny kugle ved siden af den første. Hvis man gerne vil have flere, så ændrer man *Count* til noget andet.
 
 Det er fint med en en række af kanonkugler, men vi ville jo gerne have et helt lag af dem. Hvad kan vi så gøre for at få det? Vi tilføjer da bare en Array-modifier til! Husk at sætte *Count* til det samme som før, og vær opmærksom på, at vi lige nu kopierer rækken i den samme retning som før. For at gøre noget ved det, skal vi ændrer på *Factor X* og *Factor Y* på den anden Array-modifier. De kontrollerer hvilken retning som vi laver vores Array på, og hvor meget den skal bevæges i den retning.
@@ -76,4 +78,20 @@ Nu består toppen af flere faces end før, men nu har vi en ny og mindre face de
 >Hvis du får højreklikket mens du laver en Extrude, kan det godt se ud som om der ikke skete noget, men det gør der! Du vil stadig få lavet den nye extrude, men den kommer til at ligge oven i det gamle. Faces der ligger oven i hinanden er altid en dårlig idé i Blender, men der er et nemt fiks for det. Inde i *Edit Mode*, tryk på *A* for at vælge alt, og derefter *M* for at begynde at *Merge* (slå ting sammen). Her skal vi vælge *By Distance*, hvilket gør at alle de vertices, der er meget tæt sammen, bliver lavet om til én enkel vertex. Hvis du mistænker at noget er galt med dit objekt, så prøv dette!
 
 Det eneste der mangler nu, er at flytte kanonkuglerne tilbage på foden, og så har vi et komplet og færdigt objekt! Hvis man gerne vil have at de flytter sig sammen, kan man vælge alle kanonkuglerne med *Shift+Venstreklik*, og til sidst vælge foden, også med *Shift + Venstreklik*. Med alting valgt, kan vi nu trykke *Ctrl + P*, vælge *Object (Keep Transform)*, og så vil alle kanonkuglerne følge med når man flytter på foden. Det smarte er så, at du kan flytte på kanonkuglerne *uden* at flytte på foden!
+
+Det eneste der er ved vores objekt nu, er at den stadig en kedelig, grå farve. Det kan vi gøre noget ved, ved at give den nogle materialer
 ## Sektion C: Simple materialer
+
+Inden vi overhovedet går i gang med at lave og sætte materialer, bliver vi nødt til at ændre den måde vi ser objekterne i Blender. Lige nu prøver vi det, der hedder *Solid Shading*, hvor objekterne får den samme farve. Her tager Blender ikke højde for hverken materialer eller lys, så det bliver vi nødt til at ændre. Oppe i højre hjørne af 3D Viewport'en finder du de fire muligheder for shading, og så klikker du på den tredje fra venstre: Material Preview
+
+<img src="{{site.baseurl}}/z_assets/material-preview.png" alt="material-preview" style="width:100%">
+
+Nu skulle alting gerne blive hvid frem for grå, og vi er nu klar til at lave nogle materialer. For at gøre det, skal du først vælge et objekt, og bevæge dig hen på Material-tab'en og klikke på New.
+
+<img src="{{site.baseurl}}/z_assets/material-tab.png" alt="material-tab" style="width:100%">
+
+Der er masser af muligheder herinde, men vi behøver kun tre ting for nu: *Base Colour*, *Metallic*, og *Roughness*. Dem kan du lege rundt med, og sætte nogle farver, som du synes passer til din fod og dine kanonkugler!
+
+Du behøver ikke at klikke *New* hver eneste gang du skal sætte et nyt materiale, tværtimod vil du nogle gang bruge det samme materiale for at kunne lave ændringer flere steder på samme tid. Det kan for eksempel være rigtig smart at bruge det samme materiale på kanonkuglerne. Det kan du gøre ved at klikke på knappen ved siden af *New*, som viser en liste af alle de materiale du har lavet. Så vælger du bare den du vil bruge, og så bruger du det samme materiale flere steder!
+
+![[Pasted image 20250928181946.png]]

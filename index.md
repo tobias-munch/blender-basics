@@ -14,4 +14,4 @@ Hvis du ikke allerede har installeret Blender, så du klikke på [dette link](ht
 
 Hvis du gerne vil starte på opgaverne, så klik her på [Afsnit 1 - Det vigtigste](./_guides/01-getting-started.md), eller klik på linket øverst på hjemmesiden.
 
-Version 15
+Version 16

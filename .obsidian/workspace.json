@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_guides/02-cannonballs.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "02-cannonballs"
             }
           },
           {
@@ -183,10 +183,13 @@
   },
   "active": "42a212df5c8faaca",
   "lastOpenFiles": [
-    "_guides/04-cannon.md",
-    "_guides/03-wheels.md",
-    "index.md",
+    "z_assets/Pasted image 20250928181946.png",
+    "z_assets/material-tab.png",
     "_guides/02-cannonballs.md",
+    "z_assets/material-preview.png",
+    "_guides/03-wheels.md",
+    "_guides/04-cannon.md",
+    "index.md",
     "z_assets/extrude-example.png",
     "z_assets/inset-example.png",
     "z_assets/foot-side-askew.png",
@@ -195,8 +198,6 @@
     "z_assets/objekt-settings.png",
     "z_assets/modifiers-location.png",
     "z_assets/kanonkugler.png",
-    "z_assets/Hjul-2-OK1.jpg",
-    "z_assets/Hjul dele.png",
     "_guides/01-getting-started.md",
     "Introduktion.md",
     "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
