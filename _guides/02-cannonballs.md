@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Afsnit 2:Kanonkugler
+title: "Afsnit 2: Kanonkugler"
 order: 2
 ---
 # Afsnit 2 - Kanonkugler
@@ -12,7 +12,10 @@ Det første sted man starter når man skal lave et objekt, er at se hvilke figur
 
 ### Sektion A: Shading og Arrays
 
-Det at lave en kugle er ikke svært - Vi kunne se i forrige opgave at man bare kan tilføje en UV Sphere, som er tæt nok på en helt rund kugle. Hvis man gerne have den til at se rund ud, kan man venstreklikke på kuglen, derefter højreklikke på den hvilket giver følgende muligheder, og så vælger man *Shade Smooth*.
+Det at lave en kugle er ikke svært - Vi kunne se i forrige afsnit at man bare kan tilføje en UV Sphere, som er tæt nok på en helt rund kugle. En ting vi dog ikke kiggede på før, er hvordan man tilpasser sit nye objekt. Nede i venstre hjørne dukker der en menu op efter man tilføjer et nyt objekt, og folder man den ud kan man tilpasse det nye objekt. 
+![Objekt-settings]({{site.baseurl}}/z_assets/objekt-settings.png)
+
+Det eneste der er vigtigt lige nu, er at sætte Radius, som angiver hvor stor kuglen er, til 0,5. Hvis man gerne have den til at se rund ud, kan man venstreklikke på kuglen, derefter højreklikke på den hvilket giver følgende muligheder, og så vælger man *Shade Smooth*.
 
 ![shading muligheder]({{ site.baseurl }}/z_assets/shading-muligheder.png)
 
@@ -21,4 +24,6 @@ Det at lave en kugle er ikke svært - Vi kunne se i forrige opgave at man bare k
 > ![shading explainer]({{site.baseurl}}/z_assets/shading-explainer.png)
 
 Nu har vi en rund kugle, men det vil være irriterende og tage lang tid hvis vi skal placere alle kuglerne i hånden. Der kommer til at være 30 styks hvis vi laver fire lag af kugler! Det behøver vi dog ikke at gøre, da vi kan benytte os af *Modifiers*, som er placeret i en tab ude i højre side med et blåt skruenøgle-ikon.
-![modifiers-lokation]({{site.baseurl}}/z_assets/modifiers-location.png)
+![modifiers-lokation]({{site.baseurl}}/z_assets/modifiers-location.png)Her skal vi finde den modifier der hedder *Array*, og den ligger inde under *Generate > Array* (Alternativt kan man søge efter Array). Tilføjer man den kan man med det samme at der bliver tilføjet en ny kugle ved siden af den første. Hvis man gerne vil have flere, så ændrer man Count til noget andet
+
+![Array with array]({{site.baseurl}}/z_assets/array-with-array.png)

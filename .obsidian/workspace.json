@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_guides/02-cannonballs.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-cannonballs"
+              "title": "index"
             }
           }
         ]
@@ -171,10 +171,13 @@
   },
   "active": "42a212df5c8faaca",
   "lastOpenFiles": [
+    "_guides/02-cannonballs.md",
+    "z_assets/vintage-cannon-cartoon-illustration-vector.jpg",
     "index.md",
+    "z_assets/array-with-array.png",
+    "z_assets/objekt-settings.png",
     "Introduktion.md",
     "z_assets/modifiers-location.png",
-    "_guides/02-cannonballs.md",
     "Opgaver/Opgave 2 - Bunke af kanonkugler.md",
     "_guides/01-getting-started.md",
     "Opgaver/Opgave 1 - Det vigtigste.md",
@@ -184,9 +187,6 @@
     "z_assets/Pasted image 20250928130539.png",
     "z_assets/Pasted image 20250928131201.png",
     "z_assets/Pasted image 20250928131217.png",
-    "z_assets/shading-explainer.png",
-    "z_assets/shading-muligheder.png",
-    "z_assets/kanonkugler.png",
     "{{site-baseurl}}/_guides/02-cannonballs.md",
     "{{site-baseurl}}/_guides/01-getting-started.md",
     "{{site-baseurl}}/_guides",
