@@ -17,7 +17,9 @@
                 {% if site.guides.size > 0 %}
                     {% assign sorted_guides = site.guides | sort: 'order' %}
                     {% for guide in sorted_guides limit: 5 %}
-                        <a class="page-link" href="{{ guide.url | relative_url }}">{{ guide.title }}</a>
+                        {% unless guide.nav_exclude %}
+                            <a class="page-link" href="{{ guide.url | relative_url }}">{{ guide.title }}</a>
+                        {% endunless %}
                     {% endfor %}
                 {% endif %}
             </div>
