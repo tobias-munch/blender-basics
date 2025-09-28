@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_guides/02-cannonballs.md",
+                "file": "_guides/04-cannon.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "02-cannonballs"
+              "title": "04-cannon"
             }
           },
           {
@@ -183,8 +183,10 @@
   },
   "active": "42a212df5c8faaca",
   "lastOpenFiles": [
-    "z_assets/extrude-example.png",
+    "_guides/03-wheels.md",
+    "_guides/04-cannon.md",
     "_guides/02-cannonballs.md",
+    "z_assets/extrude-example.png",
     "z_assets/inset-example.png",
     "z_assets/foot-side-askew.png",
     "z_assets/vertex-edge-face-modes.png",
