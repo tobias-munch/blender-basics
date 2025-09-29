@@ -94,4 +94,6 @@ Der er masser af muligheder herinde, men vi behøver kun tre ting for nu: *Base 
 
 Du behøver ikke at klikke *New* hver eneste gang du skal sætte et nyt materiale, tværtimod vil du nogle gang bruge det samme materiale for at kunne lave ændringer flere steder på samme tid. Det kan for eksempel være rigtig smart at bruge det samme materiale på kanonkuglerne. Det kan du gøre ved at klikke på knappen ved siden af *New*, som viser en liste af alle de materiale du har lavet. Så vælger du bare den du vil bruge, og så bruger du det samme materiale flere steder!
 
-![[Pasted image 20250928181946.png]]
+<img src="{{site.baseurl}}/z_assets/material-selection.png" alt="material-selection" style="width:100%">
+
+Det var alt for denne uge, næste gang kigger vi på at lave et træhjul. Hvis du har nået det hele i løbet af første gang, kan du gå i gang med at finde et billede af et hjul på internettet, og overveje hvordan man kan lave det.
